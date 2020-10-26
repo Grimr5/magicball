@@ -1,2 +1,1 @@
-Ruby programm Magic Ball. 
-To run - in terminal: ruby magicball.rb 
+# H1 Magic Ball
