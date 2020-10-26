@@ -16,4 +16,4 @@ ruby magicball.rb
 Сконцентрируйся и спроси опять
 ```
 
-Автор: Крохмалюк Сергей ([grimr5](https://github.com/Grimr5)).
+Alt-Автор: Крохмалюк Сергей ([grimr5](https://github.com/Grimr5)).
