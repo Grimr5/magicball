@@ -16,6 +16,4 @@ ruby magicball.rb
 Сконцентрируйся и спроси опять
 ```
 
-Alt-H1
-
 Автор: Крохмалюк Сергей ([grimr5](https://github.com/Grimr5)).
